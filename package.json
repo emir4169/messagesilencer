@@ -1,6 +1,6 @@
 {
   "name": "plugin-template",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A plugin template",
   "engines": {
     "node": ">=20.0.0",
