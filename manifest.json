@@ -7,7 +7,7 @@
     "discordID": "946726068805599252",
     "github": "emir4169"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "updater": {
     "type": "github",
     "id": "emir4169/messagesilencer"
@@ -16,5 +16,7 @@
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
   "source": "https://github.com/replugged-org/plugin-template",
-  "image": ["https://imgur.com/a/lP6LA2r"]
+  "image": [
+    "https://imgur.com/a/lP6LA2r"
+  ]
 }
