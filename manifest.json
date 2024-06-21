@@ -7,7 +7,7 @@
     "discordID": "946726068805599252",
     "github": "emir4169"
   },
-  "version": "1.0.0",
+  "version": "2.0.0",
   "updater": {
     "type": "github",
     "id": "emir4169/messagesilencer"
