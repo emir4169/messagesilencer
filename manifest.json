@@ -15,7 +15,7 @@
   "license": "MIT",
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
-  "source": "https://github.com/replugged-org/plugin-template",
+  "source": "https://github.com/emir4169/messagesilencer",
   "image": [
     "https://imgur.com/a/lP6LA2r"
   ]
